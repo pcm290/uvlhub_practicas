@@ -1,1 +1,1 @@
-esta es una nueva rama local
+me quedo con el cambio hecho en la rama remota
