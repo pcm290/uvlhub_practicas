@@ -1,1 +1,3 @@
 Este es el archivo con el bug inicial
+Este es el archivo modificado
+Línea adicional para el parche
